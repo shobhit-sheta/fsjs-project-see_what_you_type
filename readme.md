@@ -25,7 +25,7 @@ This project is created using:
 
 This project is hosted on Netlify.
 
-[Netlify](https://shobhits-fsjs-project-see_what_you_type.netlify.app/)
+[Netlify](https://shobhits-fsjs-project-seewhatyoutype.netlify.app/)
 
 #
 
